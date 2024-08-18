@@ -1,8 +1,9 @@
 # LinkedIn Spam Killer
+https://github.com/user-attachments/assets/468e2b60-cb63-45ca-8911-81ac5c47bcb5
 
 ## Background
 
-LinkedIn Spam Killer is a Chrome extension I developed to address the growing issue of spam messages on the LinkedIn platform. This project was inspired by a tweet from Eugene Ng (@Eug_Ng) highlighting the prevalence of spam on LinkedIn, a problem I frequently encountered myself.
+LinkedIn Spam Killer is a Chrome extension I developed to address the growing issue of spam messages on the LinkedIn platform. This project was inspired by a tweet from Eugene Ng (https://x.com/Eug_Ng/status/1823311765024932078) highlighting the prevalence of spam on LinkedIn, a problem I frequently encountered myself.
 
 Leveraging the power of AI language models, this extension aims to automatically identify and mark potential spam messages, helping users maintain a cleaner, more relevant inbox.
 
